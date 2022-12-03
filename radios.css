@@ -1,0 +1,7 @@
+#playerlist {
+    position: absolute;
+    top: 30%;
+    min-width: 98vw;
+    max-width: 50vw;
+    background-color: rgba(255, 255, 255, 0);
+}
