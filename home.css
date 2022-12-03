@@ -133,7 +133,7 @@ header {
 .hero-container {
     display: flex;
     position: relative;
-    background-image: url("/assets/mobile_bg.jpg");
+    background-image: url("./assets/mobile_bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -269,7 +269,7 @@ footer {
       }
 
     .hero-container {
-        background-image: url("/assets/bg.png");
+        background-image: url("./assets/bg.png");
         background-position: center;
     }
 

@@ -5,7 +5,7 @@ const ap1 = new APlayer({  // ap1
     theme: '#9fc5e8',  // will be overridden if music color is set
     loop: 'all',
     order: 'list',
-    preload: 'auto',
+    preload: 'metadata',
     volume: 0.7,
     mutex: true,
     listFolded: false,
